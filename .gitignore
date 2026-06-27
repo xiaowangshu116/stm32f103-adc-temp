@@ -1,0 +1,9 @@
+build/
+_deps/
+*.elf
+*.bin
+*.hex
+*.out
+*.o
+*.d
+*.a
