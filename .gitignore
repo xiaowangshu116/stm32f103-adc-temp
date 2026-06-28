@@ -7,3 +7,4 @@ _deps/
 *.o
 *.d
 *.a
+__pycache__/
