@@ -8,3 +8,6 @@ _deps/
 *.d
 *.a
 __pycache__/
+tools/build/
+tools/dist/
+*.spec
